@@ -1,6 +1,8 @@
 # glue-benchmark
 Code for benchmarking BERT and MABEL models using the Trainer module on al the tasks from General Language Understanding Evaluation (GLUE) dataset. It uses the Trainer API from the Hugging Face Transformers library to streamline training, evaluation, and logging from the Transformers library. 
 
+This code was heavily inspired by [GLUE-Benchmarking-Guide](https://github.com/chenmoneygithub/GLUE-Benchmarking-Guide/blob/main/Benchmark_Your_Model_with_GLUE_Dataset.ipynb) created by chenmoneygithub.
+
 # GLUE Tasks Supported
 * CoLA
 * SST-2
