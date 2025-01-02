@@ -14,3 +14,4 @@ Code for benchmarking BERT and MABEL models using the Trainer module on al the t
 #  Notes
 1. For optimal results, fine-tune and evaluate each model to select the best parameters.
 2. SUPER-GLUE can also be benchmarked using this code.
+3. The code was executed on Kaggle and required approximately 6-7 hours to complete all tasks for each model using GPU.
